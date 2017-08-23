@@ -1,2 +1,1 @@
-def sub(num1, num2):
-    # Skriv din kod här
+# Skapa dina variabler här under!
