@@ -10,4 +10,3 @@ class ClassTests(unittest.TestCase):
   def test_vars_are_strings(self):
     self.assertTrue(type(self.test_instance.namn) == str, 'namn är inte en textsträng.')
     self.assertTrue(type(self.test_instance.beskrivning) == str, 'beskrivning är inte sen textsträng.')
-    
