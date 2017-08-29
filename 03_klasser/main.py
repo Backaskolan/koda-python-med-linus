@@ -1,2 +1,2 @@
 # Skapa din klass här under!
-#class Sak:
+class Sak:
