@@ -1,2 +1,2 @@
-def add(num1, num2):
+def add(x, y):
     # Skriv din kod här
