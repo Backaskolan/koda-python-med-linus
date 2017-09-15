@@ -1,6 +1,11 @@
 import unittest
 
 class StringTests(unittest.TestCase):
+  
+  def test_is_s_a_string(self):
+    self.assertTrue(isinstance(s, str))
+
+class CharacterTests(unittest.TestCase):
   def test_a_is_P(self):
     self.assertEqual(a, 'P')
   
@@ -15,8 +20,4 @@ class StringTests(unittest.TestCase):
   
   def test_e_is_len(self):
     self.assertEqual(e, 6)
-  
-  def test_is_s_a_string(self):
-    self.assertTrue(isinstance(s, str))
-    
   
