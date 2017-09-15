@@ -8,6 +8,6 @@ De ska innehålla:
   
   c. Sista tecknet i strängen `s`
   
-  d. Andra till fjärde tecknet i strängen `s`
+  d. Andra till och med fjärde tecknet i strängen `s`
   
   e. Längden på strängen s
