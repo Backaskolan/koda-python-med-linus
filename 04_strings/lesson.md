@@ -13,4 +13,4 @@ De ska innehålla:
   
   e. Längden på strängen s, alltså `6`
   
-Skriv ut dina variabler på skärmen så du kan se att det har blivit rätt.
+Skriv ut dina variabler på skärmen så du kan se att det har blivit rätt. (Använd `print()`)
