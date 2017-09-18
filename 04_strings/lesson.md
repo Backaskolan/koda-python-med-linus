@@ -11,6 +11,6 @@ De ska innehålla:
   
   d. Andra till och med fjärde tecknet i strängen `s`, alltså `yth`
   
-  e. Längden på strängen s, alltså `6`
+  e. Längden på strängen `s`, alltså `6`
   
 Skriv ut dina variabler på skärmen så du kan se att det har blivit rätt. (Använd `print()`)
