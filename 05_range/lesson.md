@@ -6,7 +6,7 @@ Titta på exemplet till vänster. Jag har skapat en variabel som heter `r` och s
 
 Kör koden `(Ctrl+Enter)` och se om du kan räkna ut vad som händer!
 
-Först skriver vi ut själva variabeln `r` till skärmen. `r` innehåller en `range()` från 0 till 9, och det är vad vi får.
+Först skriver vi ut själva variabeln `r` till skärmen. `r` innehåller en `range(0, 10)`, och det är vad vi får.
 
 Sen kommer nästa del och den består av ett slags *loop* - en `for`-loop. Den säger helt enkelt att
 
