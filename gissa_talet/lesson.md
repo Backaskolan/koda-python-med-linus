@@ -1,10 +1,10 @@
-## Gissa talet
+# Gissa talet
 
 Börja med att gå igenom koden och försöka räkna ut vad den gör.
 
 Det är ganska mycket vi inte har gått igenom redan: if-satser, while-loopar och str.format()-funktionen. Vi börjar med den sista.
 
-# str.format()
+## str.format()
 Ibland vill du lägga till någonting i en sträng som du inte vet vad det är när du skriver koden, till exempel användarens namn, eller i det här fallet, hur många gissningar spelaren behöver för att hitta rätt tal. Då kan du använda str.format().
 Säg att ditt spel börjar med att fråga spelaren om hens namn.
 
@@ -21,7 +21,7 @@ På samma sätt talar vi om för spelaren hur många gissningar hen behövde gen
 
 där `antal_gissningar` är en variabel som håller koll på hur många gissningar spelaren har använt.
 
-# while-loopar
+## while-loopar
 I vår funktion `loop()` finns det en `while`-loop.
 
 `while int(gissning) != talet:`
@@ -32,5 +32,5 @@ Den jämför variabeln `gissning` med `talet` och loopen börjar om från börja
 
 När `gissning` faktiskt är lika med `talet`, hoppar programmet ur loopen och fortsätter köra koden under.
 
-# if-satser
+## if-satser
 TODO
