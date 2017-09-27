@@ -12,7 +12,7 @@ Säg att ditt spel börjar med att fråga spelaren om hens namn.
 
 Sen vill du skriva ut en hälsningsfras med namnet. Då kan du lägga in innehållet i variabeln `namn` så här:
 
-`print('Välkommen, {0}!').format(namn))`
+`print('Välkommen, {0}!'.format(namn))`
 
 `{0}` ersätts av innehållet i `namn`.
 På samma sätt talar vi om för spelaren hur många gissningar hen behövde genom att skriva
