@@ -1,7 +1,7 @@
 # Uppgift 1: En funktion som heter 'goddag()' och som skriver ut 'Goddag!' på skärmen.
 def goddag():
 return ''
-goddag()
+print(goddag())
 
 # Uppgift 2: Textsträng och [index]
 s =
